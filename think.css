@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type:disc;
+  }
+header {
+    background-color:white;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+.logo{
+    width: 145px;
+    height: 40px;
+    float: left;
+
+}
+img.banner {
+    width: 100%;
+}
+
+h1.about-us {
+    float: right;
+}
+h1.useful-resourses {
+    float: right;
+}
+h1.Support {
+    float: right;
+}
+.about {
+    float: right;
+     padding: 32px;
+     font-weight: bold;
+    
+}
+img.arrow {
+    padding: 11px;
+}
+.container {
+    display: flex;
+    align-items: center; 
+  }
+  p.lorem {
+    margin-left: 20px;
+}
+.containerr {
+    max-width: 1200px; /* Set your desired maximum width */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding around the container */
+  }
+  .jar{
+    flex: 1; 
+    max-width: 100%;
+  }
+  .image-container {
+    display: flex;
+    gap: 20px;
+  }
+  .text-container {
+    display: flex;
+    gap: 95px;
+    justify-content: center;
+}
+.text-paragraph{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.arrow-container{
+display: flex;
+    align-items: center;
+}
+
+img.arrow2 {
+    padding: 11px;
+}
+.caring-container {
+    display: flex;
+    align-items: center;
+}
+
+.caring-text {
+    padding: 20px;
+}
+.last-container {
+    display: flex;
+    align-items: center;
+}
+img.jar2 {
+    padding: 20px;
+}
+h4.mysite-text {
+    text-align: center;
+}
+h4.copyright-text {
+    text-align: center;
+}
+.legal-text {
+    display: flex;
+    gap: 95px;
+    justify-content: center;
+}
